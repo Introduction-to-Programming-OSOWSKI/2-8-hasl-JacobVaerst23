@@ -10,8 +10,8 @@ def hasL(w):
         if (w[i]) == "l":
              return True
 
-    else:
-            return False
+    
+    return False
 
 
 print(hasL("alabama"))
